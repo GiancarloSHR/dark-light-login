@@ -158,10 +158,6 @@
     color: var(--color-light-50);
 }
 
-.dark #container {
-    background: var(--color-dark-100);
-  }
-
 @keyframes dark-to-light{
     0%{
         background-color: var(--color-dark-100);
